@@ -9,17 +9,17 @@ Not surprisingly, some numbers do not have any generators and some numbers have 
 You are to write a program to find the smallest generator of the given integer.
 
 
-Input
+### Input
 Your program is to read from standard input. The input consists of T test cases. The number of test cases T is given in the first line of the input. Each test case takes one line containing an integer N, 1 ≤ N ≤ 100,000.
 
-Ouput
+### Ouput
 Your program is to write to standard output. Print exactly one line for each test case. The line is to contain a generator of N for each test case. If N has multiple generators, print the smallest. If N does not have any generators, print 0.
 
-Example input 1
+### Example input 1
 
 216
 
-Example output 1 
+### Example output 1 
 
 198
 
