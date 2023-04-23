@@ -4,15 +4,15 @@ For this problem, you will write a program that takes a string of characters, S,
 
 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ$%*+-./:
 
-Input
+### Input
 
 The first line of input contains a single integer P, ( 1 ≤ P ≤ 1000), which is the number of data sets that follow. Each data set is a single line of input consisting of the data set number N, followed by a space, followed by the repeat count R, ( 1 ≤ R ≤ 8), followed by a space, followed by the string S. The length of string S will always be at least one and no more than 20 characters. All the characters will be from the set of characters shown above.
 
-Output
+### Output
 
 For each data set there is one line of output. It contains the data set number, N, followed by a single space which is then followed by the new string T, which is made of each character in S repeated R times.
 
-Example Input 1 
+### Example Input 1 
 
 2
 
@@ -20,7 +20,7 @@ Example Input 1
 
 5 /HTP
 
-Example Output 1 
+### Example Output 1 
 
 AAABBBCCC
 
