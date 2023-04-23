@@ -26,3 +26,7 @@ Example output 1
 Source
 
 ICPC > Regionals > Asia Pacific > Korea > Asia Regional - Seoul 2005 B
+
+Used Algorithm
+
+Bruteforcing
