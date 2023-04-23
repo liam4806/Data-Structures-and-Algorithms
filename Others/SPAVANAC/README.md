@@ -8,35 +8,35 @@ Mirko decided to heed his advice, however his alarm clock uses 24-hour notation 
 
 Note: if you are unfamiliar with 24-hour time notation yourself, you might be interested to know it starts with 0:00 (midnight) and ends with 23:59 (one minute before midnight).
 
-Input
+### Input
 
 The first and only line of input will contain exactly two integers H and M (0 ≤ H ≤ 23, 0 ≤ M ≤ 59) separated by a single space, the input time in 24-hour notation. H denotes hours and M minutes.
 
-Output
+### Output
 
 The first and only line of output should contain exactly two integers, the time 45 minutes before input time.
 
-Example Input 1 
+### Example Input 1 
 
 10 10
 
-Example Output 1 
+### Example Output 1 
 
 9 25
 
-Example Input 2 
+### Example Input 2 
 
 0 30
 
-Example Output 2 
+### Example Output 2 
 
 23 45
 
-Example Input 3 
+### Example Input 3 
 
 23 40
 
-Example Output 3 
+### Example Output 3 
 
 22 55
 
