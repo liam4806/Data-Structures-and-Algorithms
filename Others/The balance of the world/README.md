@@ -14,15 +14,15 @@ A string that will be given to the program may have two kinds of brackets, round
 
 + For every pair of corresponding left and right brackets, the substring between them is balanced.
 
-*input*
+### input
 
 The input consists of one or more lines, each of which being a dataset. A dataset is a string that consists of English alphabets, space characters, and two kinds of brackets, round (“( )”) and square (“[ ]”), terminated by a period. You can assume that every line has 100 characters or less. The line formed by a single period indicates the end of the input, which is not a dataset.
 
-*Output*
+### Output
 
 For each dataset, output “yes” if the string is balanced, or “no” otherwise, in a line. There may not be any extra characters in the output.
 
-*Example Input 1* 
+### Example Input 1
 
 So when I die (the [first] I will see in (heaven) is a score list).
 
@@ -40,7 +40,7 @@ Help( I[m being held prisoner in a fortune cookie factory)].
  
 .
 
-*Example Output 1*
+### Example Output 1
 
 yes
 
