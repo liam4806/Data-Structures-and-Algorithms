@@ -8,19 +8,19 @@ The numbers can be uniquely determined by scanning through the text and always t
 
 Since Mirko is as slow as the snail from the previous task, he has asked you to write him a program to quickly solve his assignment, so that he can go play with Slavko as soon as possible. 
 
-Input
+### Input
 
 The first line of input contains the integer N (1 ≤ N ≤ 100), the number of lines of the text. 
 
 The next N lines contain the text, consisting exclusively of lowercase English letters and decimal digits. Each line of the text is at most 100 characters long. 
 
-Output
+### Output
 
 The output must contain M lines, where M is the number of numbers found in the provided text. Each line must contain a single number from the text. The numbers must be arranged in a nondecreasing sequence. 
 
 Note: The test data will ensure that M will never exceed 500. 
 
-Example Input 1 
+### Example Input 1 
 
 2
 
@@ -28,7 +28,7 @@ lo3za4
 
 01
 
-Example Ouput 1 
+### Example Ouput 1 
 
 1
 
@@ -36,7 +36,7 @@ Example Ouput 1
 
 4
 
-Example Input 2 
+### Example Input 2 
 
 4
 
@@ -48,7 +48,7 @@ le2sim
 
 231233
 
-Example Ouput 2 
+### Example Ouput 2 
 
 0
 
@@ -60,7 +60,7 @@ Example Ouput 2
 
 231233
 
-Example Input 3 
+### Example Input 3 
 
 4
 
@@ -72,7 +72,7 @@ Example Input 3
 
 04austinpowers000
 
-Example Ouput 3 
+### Example Ouput 3 
 
 0
 
