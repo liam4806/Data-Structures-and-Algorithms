@@ -8,9 +8,9 @@ The number n is called a generator of d(n). In the sequence above, 33 is a gener
 
 Write a program to output all positive self-numbers less than 10000 in increasing order, one per line.
 
-*Example Input 1* 
+### Example Input 1
 
-*Example Output 1*  
+### Example Output 1  
 1
 
 3
