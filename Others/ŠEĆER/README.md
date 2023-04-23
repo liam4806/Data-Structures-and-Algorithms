@@ -6,51 +6,51 @@ Mirko would like to take as few packages as possible. For example, if he has to 
 
 Help Mirko by finding the minimum number of packages required to transport exactly N kilograms of sugar.
 
-Input
+### Input
 
 The first and only line of input contains one integer N (3 ≤ N ≤ 5000).
 
-Output
+### Output
 
 The first and only line of output should contain the minimum number of packages Mirko has to use. If it is impossible to deliver exactly N kilograms, output -1.
 
-Example input 1 
+### Example input 1 
 
 18
 
-Example output 1 
+### Example output 1 
 
 4
 
-Example input 2 
+### Example input 2 
 
 4
 
-Example output 2 
+### Example output 2 
 
 -1
 
-Example input 3 
+### Example input 3 
 
 6
 
-Example output 3 
+### Example output 3 
 
 2
 
-Example input 4 
+### Example input 4 
 
 9
 
-Example output 4 
+### Example output 4 
 
 3
 
-Example input 5 
+### Example input 5 
 
 11
 
-Example output 5 
+### Example output 5 
 
 3
 
