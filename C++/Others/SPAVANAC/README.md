@@ -1,4 +1,4 @@
-#SPAVANAC
+#  SPAVANAC
 
 Every school morning Mirko is woken up by the sound of his alarm clock. Since he is a bit forgetful, quite often he leaves the alarm on on Saturday morning too. That's not too bad though, since he feels good when he realizes he doesn't have to get up from his warm and cozy bed.
 
@@ -8,17 +8,17 @@ Mirko decided to heed his advice, however his alarm clock uses 24-hour notation 
 
 Note: if you are unfamiliar with 24-hour time notation yourself, you might be interested to know it starts with 0:00 (midnight) and ends with 23:59 (one minute before midnight).
 
-##Input
+##  Input
 The first and only line of input will contain exactly two integers H and M (0 ≤ H ≤ 23, 0 ≤ M ≤ 59) separated by a single space, the input time in 24-hour notation. H denotes hours and M minutes.
 
-##Output
+##  Output
 The first and only line of output should contain exactly two integers, the time 45 minutes before input time.
 
-###Example input
+###  Example input
 10 10
-###Example output 1 
+###  Example output 1 
 9 25
-###Example input 2 
+###  Example input 2 
 0 30
-###Example output 2 
+###  Example output 2 
 23 45
