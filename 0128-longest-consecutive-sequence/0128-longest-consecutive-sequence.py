@@ -7,6 +7,8 @@ class Solution:
             if i-1 not in setofnums:
                 while i+length in setofnums:
                     length+=1
-            longest=max(length,longest)
+                if length>longest:
+                    longest=length
+                    
                 
         return longest
